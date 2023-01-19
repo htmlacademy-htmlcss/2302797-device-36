@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Артём Бойков](https://up.htmlacademy.ru/htmlcss/36/user/2302797).
-* Наставник: [Евгений Петров] (https://htmlacademy.ru/profile/id617077).
+* Наставник: [Евгений Петров](https://htmlacademy.ru/profile/id617077).
 
 ---
 
